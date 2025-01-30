@@ -16,7 +16,7 @@ import CarouselSection from "@/components/customCarousel/customCarousel";
 export default function Home() {
   return (
     <main
-      className="sm:px-[66px] px-[10px] w-full pb-20 font-[family-name:var(--font-titillium-web)]"
+      className="sm:px-[66px] px-[20px] w-full pb-20 font-[family-name:var(--font-titillium-web)]"
       role="main"
       aria-labelledby="main-heading"
     >
